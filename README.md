@@ -1,4 +1,5 @@
 What the following heap would look like after we insert the value 11 into it:
+[Uploading Binary Heaps.drawio…]()
 
 
 What the previous heap would look like after we delete the root node.
