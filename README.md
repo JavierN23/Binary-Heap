@@ -1,6 +1,7 @@
 What the following heap would look like after we insert the value 11 into it:
 
-![Binary Heaps drawio](https://github.com/user-attachments/assets/6853c60b-ff65-4ae7-8e0a-07807d936c10)
+![Binary Heaps drawio (1)](https://github.com/user-attachments/assets/a9d262a1-ae53-4874-a2c6-38dabed89c4d)
+
 
 What the previous heap would look like after we delete the root node.
 
